@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1491186350 source:c:\users\abdllah\sysproj\assembler.cpp
+	"assembler.h"
+	"hexa.h"
+	<fstream>
+	<vector>
+	<map>
+	<cstddef>
+	<iostream>
+	<ctype.h>
+
+1489936911 c:\users\abdllah\sysproj\assembler.h
+	<string>
+	<map>
+	<vector>
+
+1489877817 c:\users\abdllah\sysproj\hexa.h
+	<string>
+
+1489877817 source:c:\users\abdllah\sysproj\hexa.cpp
+	"hexa.h"
+	<string>
+
+1489877841 source:c:\users\abdllah\sysproj\main.cpp
+	<iostream>
+	"assembler.h"
+
+1491991125 source:c:\users\abdllah\desktop\sysproj\assembler.cpp
+	"assembler.h"
+	"hexa.h"
+	<fstream>
+	<vector>
+	<map>
+	<cstddef>
+	<iostream>
+	<algorithm>
+	<ctype.h>
+	<stdlib.h>
+
+1491764574 c:\users\abdllah\desktop\sysproj\assembler.h
+	<string>
+	<map>
+	<vector>
+
+1491989695 c:\users\abdllah\desktop\sysproj\hexa.h
+	<string>
+
+1491989695 source:c:\users\abdllah\desktop\sysproj\hexa.cpp
+	"hexa.h"
+	<string>
+	<bitset>
+	<sstream>
+
+1491737594 source:c:\users\abdllah\desktop\sysproj\main.cpp
+	<iostream>
+	"assembler.h"
+
+1492040248 source:c:\users\hp\desktop\system sicxe ref code\sysproj3\assembler.cpp
+	"assembler.h"
+	"hexa.h"
+	<fstream>
+	<vector>
+	<map>
+	<cstddef>
+	<iostream>
+	<algorithm>
+	<ctype.h>
+	<stdlib.h>
+
+1492032799 c:\users\hp\desktop\system sicxe ref code\sysproj3\assembler.h
+	<string>
+	<map>
+	<vector>
+
+1491989695 c:\users\hp\desktop\system sicxe ref code\sysproj3\hexa.h
+	<string>
+
+1492033755 source:c:\users\hp\desktop\system sicxe ref code\sysproj3\hexa.cpp
+	"hexa.h"
+	<string>
+	<bitset>
+	<sstream>
+
+1491737594 source:c:\users\hp\desktop\system sicxe ref code\sysproj3\main.cpp
+	<iostream>
+	"assembler.h"
+
+1492045546 source:c:\users\hp\desktop\system sicxe ref code\pass1pass2\assembler.cpp
+	"assembler.h"
+	"hexa.h"
+	<fstream>
+	<vector>
+	<map>
+	<cstddef>
+	<iostream>
+	<algorithm>
+	<ctype.h>
+	<stdlib.h>
+
+1492032799 c:\users\hp\desktop\system sicxe ref code\pass1pass2\assembler.h
+	<string>
+	<map>
+	<vector>
+
+1491989695 c:\users\hp\desktop\system sicxe ref code\pass1pass2\hexa.h
+	<string>
+
+1492033755 source:c:\users\hp\desktop\system sicxe ref code\pass1pass2\hexa.cpp
+	"hexa.h"
+	<string>
+	<bitset>
+	<sstream>
+
+1491737594 source:c:\users\hp\desktop\system sicxe ref code\pass1pass2\main.cpp
+	<iostream>
+	"assembler.h"
+
+1492048368 source:d:\pass1pass2\hexa.cpp
+	"hexa.h"
+	<string>
+	<bitset>
+	<sstream>
+
+1491989695 d:\pass1pass2\hexa.h
+	<string>
+
+1491737594 source:d:\pass1pass2\main.cpp
+	<iostream>
+	"assembler.h"
+
+1492032799 d:\pass1pass2\assembler.h
+	<string>
+	<map>
+	<vector>
+
+1492079273 source:d:\pass1pass2\assembler.cpp
+	"assembler.h"
+	"hexa.h"
+	<fstream>
+	<vector>
+	<map>
+	<cstddef>
+	<iostream>
+	<algorithm>
+	<ctype.h>
+	<stdlib.h>
+
+1492202463 source:d:\final el gamed\assembler.cpp
+	"assembler.h"
+	"hexa.h"
+	<fstream>
+	<vector>
+	<map>
+	<cstddef>
+	<iostream>
+	<algorithm>
+	<ctype.h>
+	<stdlib.h>
+
+1492199505 d:\final el gamed\assembler.h
+	<string>
+	<map>
+	<vector>
+
+1491989695 d:\final el gamed\hexa.h
+	<string>
+
+1492048368 source:d:\final el gamed\hexa.cpp
+	"hexa.h"
+	<string>
+	<bitset>
+	<sstream>
+
+1492199558 source:d:\final el gamed\main.cpp
+	<iostream>
+	"assembler.h"
+
+1492048368 source:c:\users\hp\desktop\system sicxe ref code\final el gamed\hexa.cpp
+	"hexa.h"
+	<string>
+	<bitset>
+	<sstream>
+
+1491989695 c:\users\hp\desktop\system sicxe ref code\final el gamed\hexa.h
+	<string>
+
+1492199558 source:c:\users\hp\desktop\system sicxe ref code\final el gamed\main.cpp
+	<iostream>
+	"assembler.h"
+
+1492199505 c:\users\hp\desktop\system sicxe ref code\final el gamed\assembler.h
+	<string>
+	<map>
+	<vector>
+
+1492200434 source:c:\users\hp\desktop\system sicxe ref code\final el gamed\assembler.cpp
+	"assembler.h"
+	"hexa.h"
+	<fstream>
+	<vector>
+	<map>
+	<cstddef>
+	<iostream>
+	<algorithm>
+	<ctype.h>
+	<stdlib.h>
+
